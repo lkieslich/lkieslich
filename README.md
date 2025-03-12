@@ -5,8 +5,10 @@
 </p>
 
 <p align="center">
-  📡 Working with <strong>CubeSats</strong> and <strong>embedded systems</strong>  
-  ⚡ Exploring <strong>RISC-V, FPGA</strong>, and low-level programming  
+  📡 Working with <strong>CubeSats</strong> and <strong>embedded systems</strong>
+  
+  ⚡ Exploring <strong>RISC-V, FPGA</strong>, and low-level programming
+  
   🐧 Arch Linux enthusiast – <em>I use Arch, btw</em> 😄  
 </p>
 
