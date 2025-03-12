@@ -6,9 +6,9 @@
 
 <p align="center">
   📡 Working with <strong>CubeSats</strong> and <strong>embedded systems</strong>
-  
+<p align="center">  
   ⚡ Exploring <strong>RISC-V, FPGA</strong>, and low-level programming
-  
+<p align="center">  
   🐧 Arch Linux enthusiast – <em>I use Arch, btw</em> 😄  
 </p>
 
