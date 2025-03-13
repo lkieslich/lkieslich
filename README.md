@@ -9,6 +9,6 @@
 <p align="center">  
   ⚡ Exploring <strong>RISC-V, FPGA</strong>, and low-level programming
 <p align="center">  
-  🐧 Linux enthusiast – <em>I use Arch, btw</em> 😄  
+  🐧 Linux enthusiast – <em>I use Arch, btw</em>   
 </p>
 
