@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I'm Lucas Kieslich 👋</h1>
+<h1 align="center">Hello!</h1>
 
 <p align="center">
   💻 <strong>PhD Candidate in Electrical Engineering</strong> | 🚀 Researcher at <strong>Spacelab - UFSC</strong>  
