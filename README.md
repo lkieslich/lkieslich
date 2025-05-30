@@ -1,7 +1,7 @@
 <h1 align="center">Hello!</h1>
 
 <p align="center">
-  <strong>PhD Candidate in Electrical Engineering</strong> | 🚀 Researcher at <strong>Spacelab - UFSC</strong>  
+  <strong>PhD Candidate in Electrical Engineering</strong> | Researcher at <strong>Spacelab - UFSC</strong>  
 </p>
 
 <p align="center">
